@@ -1,3 +1,11 @@
+Version 77:
+
+HTTP:
+
+* Tidy up basic_string_body
+
+--------------------------------------------------------------------------------
+
 Version 76:
 
 * Always go through write_some
