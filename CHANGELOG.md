@@ -3,6 +3,7 @@ Version 77:
 HTTP:
 
 * Tidy up basic_string_body
+* Add vector_body
 
 --------------------------------------------------------------------------------
 
